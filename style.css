@@ -1,0 +1,111 @@
+code {
+    white-space: pre-wrap;
+}
+
+span.smallcaps {
+    font-variant: small-caps;
+}
+
+span.underline {
+    text-decoration: underline;
+}
+
+div.column {
+    display: inline-block;
+    vertical-align: top;
+    width: 50%;
+}
+
+div.hanging-indent {
+    margin-left: 1.5em;
+    text-indent: -1.5em;
+}
+
+ul.task-list {
+    list-style: none;
+}
+
+.display.math {
+    display: block;
+    text-align: center;
+    margin: 0.5rem auto;
+}
+
+body {
+    background-image: url(webb.png);
+    font-family: 'Roboto Mono', monospace;
+}
+
+h1 {
+    font-family: 'Roboto Mono', monospace;
+    text-align: center;
+}
+
+img {
+    border-radius: 15px;
+    align-items: center;
+}
+
+table,
+th,
+td {
+    border: 1px solid black;
+}
+
+div.polaroid {
+    width: 28%;
+    background-color: white;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    margin-bottom: 25px;
+    border-radius: 15px;
+    float: left;
+    padding: 20px;
+    margin: 10px;
+    align-items: center;
+    height: 450px;
+}
+
+div.container {
+    text-align: center;
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+    align-items: center;
+}
+
+div.polaroid1 {
+    width: 28%;
+    background-color: white;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    margin-bottom: 25px;
+    border-radius: 15px;
+    float: left;
+    padding: 20px;
+    margin: 10px;
+    align-items: center;
+    height: 450px;
+}
+
+div.polaroid2 {
+    width: 28%;
+    background-color: white;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    margin-bottom: 25px;
+    border-radius: 15px;
+    float: left;
+    padding: 20px;
+    margin: 10px;
+    align-items: center;
+    height: 450px;
+}
+
+div.polaroid3 {
+    width: 91%;
+    background-color: white;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    margin-bottom: 25px;
+    border-radius: 15px;
+    float: left;
+    padding: 20px;
+    margin: 45px;
+    align-items: center;
+}
